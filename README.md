@@ -1,3 +1,3 @@
 # teste-travis
 
-[![Build Status](https://travis-ci.org/Marcondysbezerra/curso-django.svg?branch=main)](https://travis-ci.org/Marcondysbezerra/curso-django)
+[![Build Status](https://travis-ci.org/Marcondysbezerra/teste-travis.svg?branch=main)](https://travis-ci.org/Marcondysbezerra/teste-travis)
